@@ -1,0 +1,1 @@
+farm properly hit minions on their last health
